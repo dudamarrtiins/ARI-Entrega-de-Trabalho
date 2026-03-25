@@ -2,7 +2,7 @@
 
 # Atividade prática 3️⃣
  ## 🌐Objetivo
- Nessa atividade fizemos uma continuação da atividade anterior, dessa vez seguimos da onde paramos e avançamos na programação!
+ Nessa atividade fizemos uma continuação da atividade anterior e avançamos na programação!
  Adicionamos algumas linhas novas no nosso codigo antigo para que ele fosse capaz de fazer um GET e um POST por meio do Postman, o GET funciona apenas para observação e por meio do POST é possivel enviar e receber mensagens
 
  ### 💻 Métodologia Usada
